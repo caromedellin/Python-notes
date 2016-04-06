@@ -42,10 +42,14 @@ Regression: refers to the fact that we try to predict it with continuous values 
 
 ###Classification
 In a classification problem we are trying to predict results within a discrete output, like yes or no, basically dividing in to categories (it can be more than 2).
+
 ![Breast Cancer classification](pictures/breast-cancer.png)
+
 Sometimes we have more than one attribute. 
 Let’s say that instead of just knowing the tumor size we know the age and the tumor size and a different set of patients that look a little different have also some tumors. Given a data set like this what a learning algorithm would do is try to separate the tumor in classes with a class. 
+
 ![Cancer Tumor by age](pictures/tumor.png)
+
 There are learning algorithms that can deal with more than 2 features, for some learning problems what you want is an infinite number of attributes to use before that make predictions, how do you even store that. 
 
 You store them as vector, imagine that you wrote an infinite amount of them. 
@@ -76,6 +80,7 @@ Clustering: Take a collection of 1000 essays written on the US Economy, and find
 A costuming algorithm
 
 ![Cancer Tumor by age](pictures/tumor.png)
+
 What they do it's that it groups thing in to cohesive groups.
 When you click one of the url you get a webpackage that is similar to another, they use it in Google and if you click on a different url and a third one what Google news does is that it looks an 10's of thousand of things. And it groups it together. 
 
