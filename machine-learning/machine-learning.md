@@ -1,7 +1,7 @@
 #Machine Learning
 ===============
 
-Table of Contents
+##Table of Contents
 =================
 In progress table of contents.
 * [Pandas](https://github.com/caromedellin/Python-notes/blob/master/pandas.pyc)
@@ -26,8 +26,14 @@ Machine Learning grew out of work in AI and it's a new capability for computers.
 As explained in the course by Andrew Ng, Machine Learning can be supervised and unsupervised.
 
 ## Supervised Learning
-======================
 
 In supervised Learning we are given a data set and we already know what to expect from it, this means that we know what the correct output should look like. There is already an idea that there is a relationship between the input and the output.
-The supervised learning problems are categorized in "regression" and "classification" problems.
+The supervised learning problems are categorized in "regression" and "classification" problems
+###Regression
+In a regression problem we are trying to predict results within a continuous output, this means that we are trying to map input variables in to some continuous function.
+
+###Example
+![Housing Prediction](pictures/housing-prediction.png)
+###Classification
+In a classification problem we are trying to predict results within a discrete output, like yes or no, basically dividing in to categories (it can be more than 2).
 
