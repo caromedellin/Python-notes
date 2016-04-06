@@ -32,8 +32,17 @@ The supervised learning problems are categorized in "regression" and "classifica
 ###Regression
 In a regression problem we are trying to predict results within a continuous output, this means that we are trying to map input variables in to some continuous function.
 
-###Example
+####Example
+Here we are given a dataset about the size of houses on the real estate market, with it we can try to predict their price. 
+
 ![Housing Prediction](pictures/housing-prediction.png)
+"the write answers" being given means that we have examples for which we know what the actual price given a condition (or a set of variables) actually is in the real world.
+
+With this knowledge there are different possible predictions or functions we can choose from, we want to minimize the cost function (square-error).
+
+Supervised learning refers to the fact that e gave the algorithm a dataset in which for every example we told it what was the right price, and the toss of the algorithm was to produce more of the right answers. This is called a regression problem.  
+Regression: refers to the fact that we try to predict it with continuous values attributes.
+
 ###Classification
 In a classification problem we are trying to predict results within a discrete output, like yes or no, basically dividing in to categories (it can be more than 2).
 
