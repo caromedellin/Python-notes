@@ -1,6 +1,6 @@
 Basic Python Cheat Scheet
 ===============
-
+![A short Python Introduction](pictures/python-into.png)
 ##Variables
 variables store pieces of data and give it an specific name
 
@@ -76,4 +76,9 @@ string_1 = "Me llamo"
 string_2 = "Carolina"
 print "Hola! %s %s." % (string_1, string_2)
 ```
+###Formating a Variable
+
+"format string" helps show variables in a more human friendly way. 
+
+Formatters: %s, %r , %d
 
