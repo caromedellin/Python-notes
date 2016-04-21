@@ -28,3 +28,9 @@ StataWriter.write_file()
 Installing Relevant Software
 ============================
 For Officially Python 2.7, 3.4, and 3.5, for some reason everyone warns against using Python 3, Do not use Python 3!
+
+
+###Guide of this Repo:
+Section | Description
+--- | ---
+[Introduction to Python]() | Cheat sheet of Python commands and short descriptions.

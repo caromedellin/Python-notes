@@ -1,9 +1,15 @@
 Basic Python Cheat Scheet
 ===============
+![A short Python Introduction](pictures/python-into.png)
+
+Every objects name can reference one of any other things at any time, a single object can be different things at different points. One object name can reference may different thing through out the objects life. It still remains the same object. 
+
+Strongly typed language.
+In certain case you can convert between types, a string an float or a string and an int if and only if you have proper formating for the object from the begging. you can even convert true to a bool. but not always.
 
 ##Variables
 variables store pieces of data and give it an specific name
-
+return type is bool.
 ```python
 carolina = 10
 ```
@@ -44,6 +50,7 @@ print("%.2f", variable)
 ```
 ##Strings and Console Output
 ###String methods
+A string is just a collection of characters
 String methods allow you to perform specific tasks for your strings:
 *len() : to check the length
 ```python
@@ -76,4 +83,12 @@ string_1 = "Me llamo"
 string_2 = "Carolina"
 print "Hola! %s %s." % (string_1, string_2)
 ```
+###Formating a Variable
+
+"format string" helps show variables in a more human friendly way. 
+
+Formatters: %s, %r , %d
+###Lists
+
+
 
