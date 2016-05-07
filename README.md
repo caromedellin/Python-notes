@@ -31,7 +31,14 @@ For Officially Python 2.7, 3.4, and 3.5, for some reason everyone warns against 
 
 
 ###Guide of this Repo:
+#### Notes and miscellaneous 
 Section | Description
 --- | ---
 [Introduction to Python](python-intro/basics.md) | Cheat sheet of Python commands and short descriptions.
 [Introduction to Pandas](pandas-intro/README.ipynb) | Basic Pandas and Data Structures.
+
+### Current Analysis
+Section | Description
+--- | ---
+[Exploratory Analysis for Taxis](exploratory-data-analysis/taxis.ipynb) | Cheat sheet of Python commands and short descriptions.
+[Introduction to Pandas](exploratory-data-analysis/sunlight-congress.ipynb) | Basic Pandas and Data Structures.
