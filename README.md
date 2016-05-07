@@ -33,4 +33,4 @@ For Officially Python 2.7, 3.4, and 3.5, for some reason everyone warns against 
 ###Guide of this Repo:
 Section | Description
 --- | ---
-[Introduction to Python]('python-intro/basics.md') | Cheat sheet of Python commands and short descriptions.
+[Introduction to Python](python-intro/basics.md) | Cheat sheet of Python commands and short descriptions.
